@@ -104,7 +104,7 @@ img{
     
 }
 aside{
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     background-color: var(--cor2);
 }
 aside > h3{
